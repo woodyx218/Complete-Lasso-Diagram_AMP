@@ -10,5 +10,7 @@ Using Approximate Message Passing (AMP) algorithm, we can characterize the Lasso
 ## Our work, 2020
 ![After our work](after_ours.jpg)
 
+An important implication of our result is that, in some cases, high TPP automatically guarantees low FDP for Lasso.
+
 # Description of Files
 If you want to plot the complete Lasso TPP-FDP trade-off diagram, all you need to change is line 98 and 99 for different sparsity (eps) and sampling ratio (delta).
