@@ -14,3 +14,15 @@ An important implication of our result is that, in some cases, high TPP automati
 
 # Description of Files
 If you want to plot the complete Lasso TPP-FDP trade-off diagram, all you need to change is line 98 and 99 for different sparsity (eps) and sampling ratio (delta).
+
+## Citation
+```
+@article{wang2020complete,
+  title={The Complete Lasso Tradeoff Diagram},
+  author={Wang, Hua and Yang, Yachong and Bu, Zhiqi and Su, Weijie},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={20051--20060},
+  year={2020}
+}
+```
